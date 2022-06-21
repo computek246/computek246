@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- https://github.com/sabreen-h -->
 <!-- https://github.com/ManarShahin48 -->
 
-<h1 align="center">Hi 👋, I'm Walid Wadany</h1>
+<h1 align="center">Hi 👋, I'm Walid Wrdany</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=walidwrdany&label=Profile%20views&color=0e75b6&style=flat" alt="walidwrdany" />
 		   <img src="https://badges.pufler.dev/repos/walidwrdany" alt="walidwrdany" />
