@@ -36,14 +36,14 @@ Here are some ideas to get you started:
 - 🐼 Doing my best 
 
 <br>
-
+<!-- 
 ## 📩 Connect with me
 <p align="center">
     <a href="mailto:computek246@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://www.facebook.com/computek246" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/computek246/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-</p>
-
+</p> -->
+<!-- 
 ## 🛠 Languages and Tools
 <br>
 <p align="center">
@@ -56,10 +56,14 @@ Here are some ideas to get you started:
 <a href="https://flutter.dev" title="Flutter"><img src="https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
 	<a href="https://www.w3.org/Style/CSS/" title="CSS3"><img src="https://img.shields.io/badge/css3-%23157122B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
 <a href="https://dart.dev" title="Dart"><img src="https://img.shields.io/badge/dart-%231572B6.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a>
-</p>
+</p> -->
 
 ## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=computek246&theme=tokyonight_duo" alt="computek246" /></p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=computek246&theme=tokyonight_duo" alt="computek246" />
+
+</p>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -67,20 +71,20 @@ Here are some ideas to get you started:
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=computek246&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="computek246" height="230px"/>
 <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p> -->
   
 ----
-<summary><b>⚡ Git profile Trophies</b></summary>
+<!-- <summary><b>⚡ Git profile Trophies</b></summary>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=computek246&layout=compact&theme=algolia" alt="Manar Shahin" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=computek246&layout=compact&theme=algolia" alt="Manar Shahin" /></a> </p> -->
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <!-- <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/computek246"><img alt="Manar Shahin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=computek246&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  <br/> -->
 
 
 <br/>
