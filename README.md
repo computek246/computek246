@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- 
-<h1 align="center">Hi 👋, I'm Manar Shahin</h1>
-<h3 align="center">Interested in Mobile Development [Flutter] and Data Analysis</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
-		   <img src="https://badges.pufler.dev/repos/manarshahin48" alt="manarshahin48" />
-		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="manarshahin48" />
+<h1 align="center">Hi 👋, I'm Walid Wadany</h1>
+<h3 align="center">Interested in Web Development and Data Analysis</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=computek246&label=Profile%20views&color=0e75b6&style=flat" alt="computek246" />
+		   <img src="https://badges.pufler.dev/repos/computek246" alt="computek246" />
+		   <img src="https://img.shields.io/github/followers/computek246?label=Followers" alt="computek246" />
 </p>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 - :school: I am a `Senior` at Faculty of Computers & Information at Suez University
 - 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/)
 - 🌱 I’m currently learning `Flutter` and `FWD Data Analysis`
-- 📫 How to reach me **manarshahin48@gmail.com**
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1y12hB7HVm2qXRh59lwwN7hKCAM7jfqUf/view?usp=sharing).
+- 📫 How to reach me **computek246@gmail.com**
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/17ITrBTOFRONhpnxFAa60745vQvIBwarP/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
 
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 ## 📩 Connect with me
 <p align="center">
-    <a href="mailto:manarshahin48@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-<a href="https://www.facebook.com/manarshahin48" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/manarshahin48/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+    <a href="mailto:computek246@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+<a href="https://www.facebook.com/computek246" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/computek246/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
 
 ## 🛠 Languages and Tools
@@ -59,12 +59,12 @@ Here are some ideas to get you started:
 </p>
 
 ## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manarshahin48&theme=tokyonight_duo" alt="manarshahin48" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=computek246&theme=tokyonight_duo" alt="computek246" /></p>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="manarshahin48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manarshahin48&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manarshahin48&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="manarshahin48" height="230px"/>
+	    <img alt="computek246's Github Stats" src="https://github-readme-stats.vercel.app/api?username=computek246&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=computek246&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="computek246" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -73,14 +73,14 @@ Here are some ideas to get you started:
 ----
 <summary><b>⚡ Git profile Trophies</b></summary>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manarshahin48&layout=compact&theme=algolia" alt="Manar Shahin" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=computek246&layout=compact&theme=algolia" alt="Manar Shahin" /></a> </p>
 
 ----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/manarshahin48"><img alt="Manar Shahin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manarshahin48&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/computek246"><img alt="Manar Shahin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=computek246&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
-<br/> -->
+<br/>
