@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <!-- https://github.com/ManarShahin48 -->
 <!-- https://github.com/7oSkaaa -->
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Walid Wrdany </h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<br>
+I'm Walid Wrdany </h1>
 
 
 <p align="center">
