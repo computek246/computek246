@@ -24,12 +24,16 @@ Here are some ideas to get you started:
 
 Update README.md
 
+<p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=500&height=100&lines=Competitive+Programmer;ACPC+2021+Finalist;Expert+on+Codeforces;Division+2+on+Codechef+(3+Stars);5+Kyu+on+Atcoder;Always+learning+new+things">
+    </a>
+</p>
  -->
 
 <h1 align="center">Hi 👋, I'm Walid Wrdany</h1>
 <h3 align="center">Senior Full Stack .NET Developer</h3>
-
-
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img
@@ -38,9 +42,26 @@ Update README.md
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=walidwrdany&label=Profile%20views&color=0e75b6&style=flat" alt="walidwrdany" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=walidwrdany&label=Profile%20views&color=0e75b6&style=flat" alt="walidwrdany" />
+		   <img src="https://badges.pufler.dev/repos/walidwrdany" alt="walidwrdany" />
+		   <img src="https://img.shields.io/github/followers/walidwrdany?label=Followers" alt="walidwrdany" />
+</p>
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walidwrdany" alt="walidwrdany" /></a> </p>
+- :school: I am a `Senior` at Faculty of Computers & Information at Suez University
+- 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/)
+- 🌱 I’m currently learning `Flutter` and `FWD Data Analysis`
+- 📫 How to reach me **walidwrdany@gmail.com**
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/17ITrBTOFRONhpnxFAa60745vQvIBwarP/view?usp=sharing).
+- :nerd_face: Always `learning new things`
+- 🐼 Doing my best 
+
+<br>
+
+<!-- ============================================================= -->
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,6 +70,7 @@ Update README.md
 <a href="https://linkedin.com/in/walidwrdany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walidwrdany" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13178160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13178160" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/walidwrdany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="walidwrdany" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/walidwrdany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="walidwrdany" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
