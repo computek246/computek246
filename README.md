@@ -54,6 +54,7 @@ Update README.md
 - 🌱 I’m currently learning `Flutter` and `FWD Data Analysis`
 - 📫 How to reach me **walidwrdany@gmail.com**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/17ITrBTOFRONhpnxFAa60745vQvIBwarP/view?usp=sharing).
+- 👨‍💻 All of my projects are available at [https://walidwrdany.github.io/walidwrdany/](https://walidwrdany.github.io/walidwrdany/)
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
 
@@ -81,7 +82,7 @@ Update README.md
 
 
 
-## 📊 Github Stats
+## Github Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=walidwrdany&theme=tokyonight_duo" alt="walidwrdany" /></p>
   <br/>
   <p align="center">
