@@ -65,6 +65,11 @@ Update README.md
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://medium.com/walidwrdany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="walidwrdany" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/walidwrdany" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="walidwrdany" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/walidwrdany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="walidwrdany" height="30" width="40" /></a>
+<a href="https://discord.gg/walidwrdany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="walidwrdany" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/walidwrdany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walidwrdany" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13178160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13178160" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/walidwrdany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="walidwrdany" height="30" width="40" /></a>
@@ -105,6 +110,10 @@ Update README.md
    <a href="https://github.com/walidwrdany"><img alt="Manar Shahin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=walidwrdany&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
+  
+
 
 <br/>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/walidwrdany"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="walidwrdany" /></a></p><br><br>
