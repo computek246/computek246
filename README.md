@@ -49,9 +49,9 @@ Update README.md
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- :school: I am a `Senior` at Faculty of Computers & Information at Suez University
-- 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/)
-- 🌱 I’m currently learning `Flutter` and `FWD Data Analysis`
+<!-- - :school: I am a `Senior` at Faculty of Computers & Information at Suez University -->
+<!-- - 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/) -->
+- 🌱 I’m currently learning `ASP.NET Core Blazor` and `Data structures and algorithms`
 - 📫 How to reach me **walidwrdany@gmail.com**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/17ITrBTOFRONhpnxFAa60745vQvIBwarP/view?usp=sharing).
 - :nerd_face: Always `learning new things`
@@ -65,16 +65,19 @@ Update README.md
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://medium.com/walidwrdany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="walidwrdany" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/walidwrdany" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="walidwrdany" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/walidwrdany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="walidwrdany" height="30" width="40" /></a>
-<a href="https://discord.gg/walidwrdany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="walidwrdany" height="30" width="40" /></a>
+
 
 <a href="https://linkedin.com/in/walidwrdany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walidwrdany" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13178160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13178160" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/walidwrdany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="walidwrdany" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/walidwrdany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="walidwrdany" height="30" width="40" /></a>
 <a href="https://codepen.io/walidwrdany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="walidwrdany" height="30" width="40" /></a>
+
+<a href="https://medium.com/walidwrdany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="walidwrdany" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/walidwrdany" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="walidwrdany" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/walidwrdany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="walidwrdany" height="30" width="40" /></a>
+<a href="https://discord.gg/walidwrdany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="walidwrdany" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
