@@ -53,7 +53,7 @@ Update README.md
 <!-- - 🔭 I’m currently working on [Najme Flutter Application](https://github.com/AbdoMosa99/Najme-Flutter-Mobile-App/) -->
 - 🌱 I’m currently learning `ASP.NET Core Blazor` and `Data structures and algorithms`
 - 📫 How to reach me **walidwrdany@gmail.com**
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/17ITrBTOFRONhpnxFAa60745vQvIBwarP/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1qWlEh5uA3FzqHn1MlCbhGJ41dXNrFYTb/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
 
