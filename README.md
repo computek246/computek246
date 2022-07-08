@@ -49,7 +49,7 @@ Update README.md
 
 - 📫 How to reach me **walidwrdany@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qWlEh5uA3FzqHn1MlCbhGJ41dXNrFYTb/view?usp=sharing](https://drive.google.com/file/d/1qWlEh5uA3FzqHn1MlCbhGJ41dXNrFYTb/view?usp=sharing)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1qWlEh5uA3FzqHn1MlCbhGJ41dXNrFYTb/view?usp=sharing)
 
 - 🤓 **Doing my best**
 
